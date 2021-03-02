@@ -1,0 +1,25 @@
+.Title{
+    margin-left: 200px;
+}
+
+.Button_Options{
+    color: black!important;
+    background-color: #C0C0C0;
+    border-radius: 6px;
+    font-size: 50px;
+    font-weight: 500;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 0.5em 1.2em;
+}
+.Button_Options:focus{
+    border-color: #5e5d5d;
+    box-shadow:  0 0 8px #2f7d31;
+    outline: 0 none;
+}
+.img{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    width: 50px;
+}

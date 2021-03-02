@@ -1,0 +1,77 @@
+h1{
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-bottom:15px;
+    line-height: 0px;
+    text-align: right;
+}
+
+h2{
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: 100px;
+    text-align: center;
+}
+
+.Box-Title{
+    font-size: 23px;
+    font-weight: 600;
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 35px;
+}
+
+.Box_Form{
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    border: black solid;
+    border-radius: 10px;
+    background-color: #ffffff;
+    text-align: center;
+    height: 750px;
+    width: 510px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    padding-right: 105px;
+    
+}
+
+.Text_Form{
+    font-size: 20px;
+    margin-bottom:30px;
+    line-height: 0px;
+    text-align: left;
+}
+
+.Input_Form{
+    width: 150%;
+    height: 30px;
+    color: black!important;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 0.5em 1.2em;
+    border: 1,5px solid #555;
+    border-radius: 6px;
+}
+.Input_Form:focus{
+    border-color: #2f7d31;
+    box-shadow:  0 0 8px #2f7d31;
+    outline: 0 none;
+}
+
+.Button-Send{
+    color: white!important;
+    background: #2F7D31;
+    border-radius: 6px;
+    margin-left: 90px;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0.5em 1em;
+}
+.Button-Send:hover{
+    background: #235e25;
+    color: white !important;
+    border: 2px solid #175c7e;
+}

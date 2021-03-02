@@ -1,0 +1,36 @@
+.contenedorPadre{
+    display: block;
+    margin:0px auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border: black solid;
+    border-width: 2px;
+    border-radius: 10px;
+    border-width: 2px;
+    padding-left:10px;
+    padding-right:10px;
+    height: 130px;
+    width: 85%;
+    background-color:#EEEEEE;
+}
+
+.detalle{
+    text-align: center;
+    padding-top: 40px;
+    padding: auto;
+}
+
+.align{
+    margin-top: 0px;
+    text-align: center;
+}
+
+.title{
+    margin-bottom: 0px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.informacion{
+    padding-top:25px;
+}

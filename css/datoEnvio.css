@@ -1,0 +1,163 @@
+body{
+    background-color:#a7d491;
+}
+
+.card{
+    margin-top:20px;
+}
+
+/* ------------------------------------------------ */
+/*       PARA TODOS LOS DOCUMENTOS DE CLIENTES      */
+/* ------------------------------------------------ */
+body{
+    background-color:#a7d491;
+    font-family: Helvetica;
+    position: relative;
+    margin: 0px;
+}
+
+h1{
+    color: #FFF711;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 30px;
+}
+h2{
+    color: #FFF711;
+    font-size: 40px;
+    text-align: center;
+    margin: 0px;
+}
+
+h3{
+    color: #6D6D6D;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+h6{
+    font-family: 'Courier New';
+    font-size: 12px;
+    text-align: center;
+    color: #2D2C2B;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.Under_Bar{
+    background-color: #E5772D;
+    height: 50px;
+    display: block;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+}
+
+.Upper_Bar{
+    background-color: #6D6D6D;
+    display: block;
+    height: 50px;
+    margin: 0px;
+}
+.Back{
+    width: 40px;
+    height: 40px;
+    float: right;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+.Logo_PLIS{
+    width: 60px;
+    height: 40px;
+    float: left;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+/* ------------------------------------------------ */
+/*     BOTONES DE OPCIONES - CLIENT_OPTIONS.PHP     */
+/* ------------------------------------------------ */
+.Button_Options{
+    color: white!important;
+    background-color: #6D6D6D;
+    border-radius: 6px;
+    font-size: 50px;
+    font-weight: 500;
+    margin-top: 120px;
+    margin-bottom: 100px;
+    padding: 0.5em 1.2em;
+}
+.Button_Back{
+    color: white!important;
+    background-color: #2D2C2B;
+    border-radius: 6px;
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 35px;
+    margin-bottom: 50px;
+    padding: 0.5em 1.2em;
+}
+/* ------------------------------------------------ */
+/*                CLIENT_CREATE.PHP                 */
+/* ------------------------------------------------ */
+.Messages{
+    color: red;
+    text-align: center;
+    font-size: 15px;
+}
+
+.Box_Form{
+    background-color:white;
+    border: black solid;
+    border-width: 2px;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    margin-top: 60px;
+    text-align: center;
+    height: 600px;
+    width: 500px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 90px;
+}
+
+.Text_Form{
+    font-size: 25px;
+    margin-bottom:30px;
+    line-height: 0px;
+    text-align: left;
+}
+
+
+.Input_Form{
+    border: 1,5px solid #555;
+    border-radius: 6px;
+    color: black!important;
+    font-size: 15px;
+    font-weight: 500;
+    height: 25px;
+    width: 150%;
+    padding: 0.5em 1.2em;
+}
+
+
+.Input_Form:focus{
+    border-color: #FB9C5B;    
+    outline: 0 none;
+}
+
+.Button_Save{
+    color: black!important;
+    background: #14B572;
+    border-radius: 6px;
+    margin-left:8%;
+    font-size: 25px;
+    font-weight: 500;
+    padding: 0.5em 4em;
+} 

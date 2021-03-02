@@ -1,0 +1,33 @@
+body{
+    background-color: #aedd94;
+    position: relative;
+    margin: 0px;
+    font-family: Helvetica;
+}
+
+.card{
+    margin-top:20px;
+}
+
+.Under_Bar{
+    background-color: #000000;
+    height: 50px;
+    display: block;
+    position: fixed;
+    width: 100%;
+    left: 0px;
+    bottom: 0px;
+}
+
+.Under_Text{
+    color: #aedd94;
+    text-align: center;
+    margin-top: 15px;
+}
+.Confirmacion{
+    color: #000000;
+    text-align: center;
+    font-size: 100px;
+    font-weight: 800;
+    margin-top: 250px;
+}
